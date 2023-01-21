@@ -113,7 +113,7 @@ Execute the program
 </html>
 ```
 # OUPUT
-![OUTPUT](images/ex03.png)
+![OUTPUT](images/ex3.png)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](images/ex03valid.png)
